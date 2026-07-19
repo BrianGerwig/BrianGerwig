@@ -9,6 +9,7 @@ I'm currently transitioning from automotive diagnostics into software developmen
 I'm focused on learning Python, automation, AI, and software engineering while building real-world projects that solve practical problems.
 
 My goal is to combine my technical background with modern software development to build useful applications and eventually work as a remote software developer.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,7 +66,7 @@ I enjoy solving problems—whether they're under the hood or in code.
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/charles-gerwig
-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGerwig&show_icons=true&theme=github_dark)
 
