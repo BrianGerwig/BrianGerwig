@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Brian Gerwig Banner" width="100%">
+</p>
+
 # Hi, I'm Brian Gerwig 👋
 
 ### Automotive Technician → Future Software Developer
