@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**BrianGerwig/BrianGerwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an automotive technician transitioning into software development.
 
-Here are some ideas to get you started:
+My background taught me how to diagnose complex electrical and mechanical systems, think logically, and solve problems under pressure. I'm now applying those same skills to Python, AI, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- 🐍 Python
+- 🤖 AI & APIs
+- 🌐 Git & GitHub
+- 🗄 SQL
+- 💻 Software Development
+
+---
+
+## 🛠 Current Projects
+
+- 🚗 Detailing Pricing Engine
+- 📅 Appointment Scheduler
+- 📄 Invoice Generator
+- 🤖 AI Customer Assistant
+
+---
+
+## 🎯 Goals
+
+- Build real-world software projects
+- Land my first remote software position
+- Continue learning AI and automation
+- Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn] https://www.linkedin.com/in/charles-gerwig-88584519a/
