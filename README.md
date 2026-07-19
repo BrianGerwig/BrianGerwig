@@ -66,8 +66,9 @@ I enjoy solving problems—whether they're under the hood or in code.
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/charles-gerwig-88584519a/](https://www.linkedin.com/in/charles-gerwig-88584519a/)
-## 📊 GitHub Stats
+## 📈 Current Focus
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGerwig&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGerwig&layout=compact&theme=github_dark)
+- Building practical Python projects
+- Learning Git, GitHub, and software development workflows
+- Exploring AI, APIs, automation, and SQL
+- Turning real automotive and business problems into software solutions
