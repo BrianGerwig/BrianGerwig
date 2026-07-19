@@ -65,7 +65,7 @@ I enjoy solving problems—whether they're under the hood or in code.
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/charles-gerwig
+- 💼 LinkedIn: [https://www.linkedin.com/in/charles-gerwig-88584519a/](https://www.linkedin.com/in/charles-gerwig-88584519a/)
 ## 📊 GitHub Stats
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGerwig&show_icons=true&theme=github_dark)
